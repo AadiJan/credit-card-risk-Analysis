@@ -25,3 +25,12 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
   - Recall: 40%
 
 ![undersampling](https://github.com/AadiJan/credit-card-risk-Analysis/blob/8731c10fa0f9a47394a7e3128ba83caf14ac0933/Undersampling.PNG)
+
+* Combination Results:
+  - Balanced accuracy scores: 54%
+  - Precision: 1%
+  - Recall: 57%
+
+
+
+![combination](https://github.com/AadiJan/credit-card-risk-Analysis/blob/b764e60b7701b702beb1ef2ece2ba820fb7565f4/Combination.PNG)

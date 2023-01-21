@@ -5,3 +5,5 @@ The intent of the project is to build a machine learning model to evaluate and p
 Using the credit card credit dataset from LendingClub, a peer-to-peer lending services company, the data was oversampled using the 'RandomOverSampler' and 'SMOTE' algorithms, and undersample the data using the 'ClusterCentroids' algorithm. Next, two new machine learning models were compared that reduce bias, BalancedRandomForestClassifier and EasyEnsembleClassifier, to predict credit risk.
 
 ## *Results*
+* Naive Random Oversampling results: Our balanced accuracy test it 67%, the precision for the high_risk has a very low positivity at 1% and the recall is 74%
+

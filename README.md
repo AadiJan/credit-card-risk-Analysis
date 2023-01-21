@@ -31,6 +31,11 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
   - Precision: 1%
   - Recall: 57%
 
-
-
 ![combination](https://github.com/AadiJan/credit-card-risk-Analysis/blob/b764e60b7701b702beb1ef2ece2ba820fb7565f4/Combination.PNG)
+
+* Balanced Random Forest Classifier Results:
+  - Balanced accuracy scores: 78%
+  - Precision: 1%
+  - Recall: 88%
+
+![balanced-random](https://github.com/AadiJan/credit-card-risk-Analysis/blob/7b56ad8822736ea493a053883c4198a8dfe4e3f5/BalancedRandomForest_classifier.PNG)

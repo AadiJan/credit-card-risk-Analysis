@@ -12,6 +12,8 @@ Recall: 64%
 ![random_oversampling](https://github.com/AadiJan/credit-card-risk-Analysis/blob/a2787732fb1631d2cc35ae9796b45f050e7f0f3f/Random_oversampling.PNG)
 
 * SMOTE oversampling results:
-Balanced accuracy scores:
+Balanced accuracy scores: 65%
 Precision: 1%
-Recall: 64%
+Recall: 68%
+
+![SMOTE_oversampling](https://github.com/AadiJan/credit-card-risk-Analysis/blob/a9649a41cb7d3a3fb311de68318e6d608139e7da/SMOTE_oversampling.PNG) 

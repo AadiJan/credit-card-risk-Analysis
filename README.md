@@ -40,9 +40,13 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 
 ![balanced-random](https://github.com/AadiJan/credit-card-risk-Analysis/blob/7b56ad8822736ea493a053883c4198a8dfe4e3f5/BalancedRandomForest_classifier.PNG)
 
-* Easy Ensemble Adaboost Classifier:
+* Easy Ensemble Classifier:
   - Balanced accuracy scores: 91%
   - Precision: 1%
   - Recall: 94%
 
 ![easy_ensemble](https://github.com/AadiJan/credit-card-risk-Analysis/blob/3ed3c976f8d7b88481409c6af019300955cc2ff1/Easy_ensemble.PNG)
+
+
+## *Summary*
+The models we undersampled, oversampled and a combination of both were used to determine the model that predicts as to which loans are at high risk. In addition to that, the last 2 models used emsemble classifiers to predict the high risk loans. The first four models had an accuracy of between 54% and 67%, which is quite low. However, using the easy ensemble had an highest accuracy of 91%. Therefore, I recommend using 'EasyEnsembleClassifier' model for this problem.

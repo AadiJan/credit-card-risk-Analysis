@@ -9,6 +9,7 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
   - Balanced accuracy scores: 67%
   - Precision: 1%
   - Recall: 64%
+  
 ![random_oversampling](https://github.com/AadiJan/credit-card-risk-Analysis/blob/a2787732fb1631d2cc35ae9796b45f050e7f0f3f/Random_oversampling.PNG)
 
 * SMOTE oversampling results:

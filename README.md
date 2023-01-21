@@ -7,3 +7,4 @@ Using the credit card credit dataset from LendingClub, a peer-to-peer lending se
 ## *Results*
 * Naive Random Oversampling results: Our balanced accuracy test it 67%, the precision for the high_risk has a very low positivity at 1% and the recall is 74%
 
+![random_oversampling](https://github.com/AadiJan/credit-card-risk-Analysis/blob/a2787732fb1631d2cc35ae9796b45f050e7f0f3f/Random_oversampling.PNG)
